@@ -1,0 +1,6 @@
+langchain
+langchain_community
+pandas
+streamlit
+neo4j
+replicate
